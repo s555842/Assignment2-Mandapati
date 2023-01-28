@@ -9,4 +9,7 @@ My Favorite Players in **Sun Risers Hyderabad** is:
 2. David warner
 3. Bhuvaneswar Kumar
 
-
+## Other good teams include:
+* Royal Challengers Bengaluru
+* Delhi Capitals
+* Deccan Chargers
