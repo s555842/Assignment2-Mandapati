@@ -19,12 +19,12 @@ ___
 ## My most recommended countries to visit
 
 Travelling have always been my way to relax myself,top 4 countries i recommend to travel are listed below:
-|**Countries**|**Places**       |**Visiting days**|
+|**Countries**|**Why to go**       |**days to visit**|
 |-------------|-----------------|-----------------|
-|France       |Eiffel Tower     |7 days           |
+|France       |visit Eiffel Tower     |7 days           |
 |Spain        |Visit Barcelona  |3 days           |
-|United States|Grand canyon     |4 days           |
-|Russia       |Moscow           |3 days           |
+|United States|visit Grand canyon     |4 days           |
+|Russia       |visit Moscow           |3 days           |
 
 ___
 ## My Favorite funny quotes
