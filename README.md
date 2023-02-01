@@ -33,7 +33,7 @@ ___
 
 ___
 ## Sample Sass Code Snippet
-sample relavant question: <https://stackoverflow.com/questions/41161594/spa-asp-net-core-architecture/41162973#41162973>
+> Sass SPA Asp.Net Core Architecture sample question: <https://stackoverflow.com/questions/41161594/spa-asp-net-core-architecture/41162973#41162973>
 ```
 $o-grid-default-config: (
     columns: 12,
